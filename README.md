@@ -37,9 +37,9 @@ Os exercícios estão organizados em 3 listas, de acordo com os capítulos do li
 ---
 
 ## 👩‍💻 Integrantes do Grupo
-- Gabriel Freire dos Anjos  
-- Antônio Max Andrade Lima  
-- João Antônio Moura Sousa  
+- [Gabriel Freire dos Anjos](https://github.com/gabrielfr7) 
+- [Antônio Max Andrade Lima](https://github.com/maxlima13)
+- [João Antônio Moura Sousa](https://github.com/SrKkxz)
 
 ---
 
